@@ -16,6 +16,19 @@ O objetivo de utilizar um software visa principalmente reduzir o tempo de atendi
 Desse modo,  projeto visa avaliar a situação atual do negócio e a partir daí desenvolver um software que permita reduzir o tempo de atendimento com os recursos humanos e financeiros disponíveis. Para isso foram descritas as atividades envolvidas em todo o processo, quem as realiza, os problemas encontrados e como estes poderiam ser tratados. O documento ainda avalia o posicionamento do negócio no mercado e seus concorrentes.
 
 
+ 
+ implementacao
+
+  Instruções:
+ 
+ A implementação foi desenvolvida em JAVA.
+ Para isto, a solução é dividida nas seguintes classes: Cardapio, GerenciadorDePedido, Ingrediente, Pedido, Pizza, Relatorio e Principal.
+ Para testar o programa, basta abrir o projeto usando uma IDE(NetBeans ou Eclipse) e executar a classe Principal.
+ Lá estarão implementados o funcionamento dos 3 casos de uso acordados em aula: Fazer Pedido(Condução), Gerenciar Cardápio(Configuração) e Relatório de Vendas(Análise).
+ 
+
+ 
+
 
 
 
